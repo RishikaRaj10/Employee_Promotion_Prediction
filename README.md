@@ -18,7 +18,7 @@ In organizations, identifying the right employees for promotion is crucial for b
 ## Approach Used
 - Handled missing values, encoded categorical features, and addressed class imbalance using SMOTE.
 - Performed Exploratory Data Analysis (EDA) to understand relations between features and distributions of features.
-- Trained and compared several models including Logistic Regression, Decision Tree, Random Forest, and XGBoost. Optimized model performance using Grid Search and Cross-Validation.
+- Trained and compared several models including Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, and XGBoost. Optimized model performance using Grid Search and Cross-Validation.
 - Used accuracy, precision, recall, F1-score, and AUC-ROC, with a focus on recall to reduce false negatives (i.e., missing a promotable employee).
 ## Impact
 - Helps organizations make informed promotion decisions based on data, improving fairness and transparency.
